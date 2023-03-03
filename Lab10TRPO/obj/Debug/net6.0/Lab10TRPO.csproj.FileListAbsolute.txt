@@ -1,0 +1,15 @@
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\Lab10TRPO.exe
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\Lab10TRPO.deps.json
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\Lab10TRPO.runtimeconfig.json
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\Lab10TRPO.dll
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\ref\Lab10TRPO.dll
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\bin\Debug\net6.0\Lab10TRPO.pdb
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.csproj.AssemblyReference.cache
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.AssemblyInfoInputs.cache
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.AssemblyInfo.cs
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.csproj.CoreCompileInputs.cache
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.dll
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\ref\Lab10TRPO.dll
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.pdb
+E:\labs 3 kurs\labs 4 kurs\TRPO\Lab10TRPO\Lab10TRPO\obj\Debug\net6.0\Lab10TRPO.genruntimeconfig.cache
